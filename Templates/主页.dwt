@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>Home</title>
+  <!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/Home css.css">
+</head>
+    
+    
+<body>
+  
+  <div class="nav1">
+    <ul class="left1">
+      <li class="tga"><img src="../img/tga.jpeg" width="200" height="105"></li>
+      <li><a href="../主页.html">首页</a></li>
+      <li class="erji">
+      <a>游戏介绍</a>
+      	<ul class="erjinav">
+      		<li><a href="../其他页面/2077.html">赛博朋克2077</a></li>
+      		<li><a href="../其他页面/GTA6.html">Grand Theft Auto VI</a></li>
+            <li><a href="../其他页面/光与影：33号远征队.html">光与影：33号远征队</a></li>
+            <li><a href="../其他页面/P5R.html">女神异闻录5</a></li>
+            <li><a href="../其他页面/P3R.html">女神异闻录3</a></li>
+      	</ul>
+      </li>
+      <li><a href="../其他页面/玩家社区.html">玩家社区</a></li>
+      <li><a href="../其他页面/玩家分享.html">玩家分享</a></li>
+    </ul>
+    <ul class="right1">
+      <li><a href="../其他页面/用户.html">用户</a></li>
+      <li><a href="../其他页面/res.html">注册|登录</a></li>
+    </ul>
+</div>
+<div class="nav2">
+  <ul class="left2">
+      
+  </ul>
+    <ul class="right2">
+      
+    </ul>
+  </div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
+<div class="context"></div>
+<!-- TemplateEndEditable -->
+<div class="dibu">
+服务条款^版权所有 niaoxin@email
+</div>
+</body>
+  </html>
