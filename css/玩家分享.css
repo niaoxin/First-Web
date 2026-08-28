@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+.context{
+	height: 1000px;
+	width: 100%;
+}
+.bigbox{
+	width: 1500px;
+	margin: 30px auto;
+}
+.box {
+	background-color: #fafdff;
+	height: 300px;
+	width: 400px;
+	float: left;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-left: 50px;
+	border-radius: 15px;
+	overflow: hidden;
+	font-family: "微软雅黑";
+	font-size: 22px;
+	transition:all 0.5s ease;
+}
+.box img {
+    margin: 0px auto;
+}
+.box a{
+	margin-left: 20px;	
+}
+.box:hover{
+	transform: scale(0.9,0.9);
+}

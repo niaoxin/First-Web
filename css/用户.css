@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+.context{
+	height: 1000px;
+	width: 100%;
+	margin: 0px auto;
+	font-family: "微软雅黑";
+}
+.logo {
+	height: 120px;
+	width: 300px;
+	margin-top: 75px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+.logo img{
+	border-radius:50%;
+}
+.name{
+	line-height: 120px;
+	margin-top: 30x;
+	margin-bottom: auto;
+	margin-left: 40px;
+}
+.story {
+	height: 700px;
+	width: 1100px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	background-color:  #e0f2fe;
+}
+h2{
+	margin-top: 50px;
+	margin-left: 25px;
+}
+.simg {
+	height: 800px;
+	width: 1100px;
+	margin: 50px;
+}
+.simg img{
+	padding-right: 50px;
+	padding-bottom: 50px;
+}
